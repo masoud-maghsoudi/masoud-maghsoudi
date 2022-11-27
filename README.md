@@ -1,15 +1,27 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Masoud Maghsoudi
-========================================================================================================================================
+Hi 👋 My name is Masoud Maghsoudi
+=================================
 
-* 🧠  I'm learning Python, Terraform
-* 🤝  I'm open to collaborating on DevOps, Linux, Network
+Network and System Engineer
+---------------------------
+
+I write scripts with Python and Bash for automation, I am maintaining Network infrastructure and Linux based servers using Ansible, but learning Terraform is my next step toward automation.
+
+* 🌍  I'm based in Iran
+* ✉️  You can contact me at [masoud\_maghsoudi@yahoo.com](mailto:masoud_maghsoudi@yahoo.com)
+* 🧠  I'm learning Kubernetes and Terraform
+* 🤝  I'm open to collaborating on DevOps and Linux based projects
+
+<a href="https://www.github.com/shaspen" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/shaspen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
+
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
+
 
 ### Socials
 
