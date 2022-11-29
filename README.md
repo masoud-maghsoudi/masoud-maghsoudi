@@ -1,4 +1,4 @@
-Hi 👋 My name is Masoud Maghsoudi
+Hi 👋, My name is Masoud
 =================================
 
 Network and System Engineer
