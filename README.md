@@ -9,10 +9,10 @@ I write scripts with Python and Bash for automation, I am maintaining Network in
 * ✉️  You can contact me at [masoud\_maghsoudi@yahoo.com](mailto:masoud_maghsoudi@yahoo.com)
 * 🧠  I'm learning Kubernetes and Terraform
 * 🤝  I'm open to collaborating on DevOps and Linux based projects and of course my core skill Network
-
+<!--- Follower Count TAG
 <a href="https://www.github.com/shaspen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shaspen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+--->
 ### Skills
 
 
