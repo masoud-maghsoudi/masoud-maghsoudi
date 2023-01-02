@@ -16,6 +16,3 @@ Hi 👋, My name is Masoud. I write scripts with Python and Bash for automation,
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=masoud-maghsoudi&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masoud-maghsoudi&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
