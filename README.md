@@ -9,8 +9,8 @@ Hi 👋, My name is Masoud. I write scripts with Python and Bash for automation,
 * 🧠  I'm learning Kubernetes and Terraform
 * 🤝  I'm open to collaborating on DevOps and Linux based projects and of course my core skill Network
 <!--- Follower Count TAG
-<a href="https://www.github.com/shaspen" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/shaspen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/masoud-maghsoudi" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/masoud-maghsoudi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 --->
 ### Skills
 
@@ -23,10 +23,10 @@ src="https://img.shields.io/github/followers/shaspen?logo=github&style=for-the-b
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/shaspen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/masoudmaghsoudi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/masoud-maghsoudi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/masoudmaghsoudi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/shaspen"><img src="https://github-readme-stats.vercel.app/api?username=shaspen&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shaspen's GitHub stats" /></a>
+<a href="http://www.github.com/masoud-maghsoudi"><img src="https://github-readme-stats.vercel.app/api?username=masoud-maghsoudi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="masoudi-maghsoudi's GitHub stats" /></a>
