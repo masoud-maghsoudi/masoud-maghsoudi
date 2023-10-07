@@ -2,10 +2,10 @@
 =================================
 Network and System Engineer
 ---------------------------
-Hi 👋, My name is Masoud. I write scripts with Python and Bash for automation, I am maintaining Network infrastructure and Linux based servers using Ansible, recently added Terraform to my portfoilo and use it to provision resources on AWS.
+Hi 👋, My name is Masoud. I write scripts with Python and Bash for automation, I am maintaining Network infrastructure and Linux based servers using Ansible, and of course, Terraform to provision resources on AWS.
 
 ✉️  You can contact me at masoud_maghsoudi@yahoo.com
-🧠  I'm learning Kubernetes and Terraform
+🧠  I'm learning Kubernetes and Jenkins
 🤝  I'm open to collaborating on DevOps and Linux based projects and of course my core skill Network
 
 ## 🌐Socials
